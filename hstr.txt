@@ -1,0 +1,8 @@
+https://medium.freecodecamp.org/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75
+
+npm init -y
+npm i webpack webpack-cli -D
+npm i react react-dom -S
+npm i babel-core babel-loader babel-preset-env babel-preset-react -D
+npm i html-webpack-plugin -D
+npm i webpack-dev-server -D

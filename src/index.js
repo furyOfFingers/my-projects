@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 // import {v} from "./div";
 // v();
 const Index = () => {
-  return <div>Hello React!</div>;
+  return <div>Hello There!</div>;
 };
 
 ReactDOM.render(<Index />, document.getElementById("index"));

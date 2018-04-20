@@ -1,7 +1,0 @@
-# эта директория будет игнорироваться
-node_modules
-hstr
-gitignore
-.gitignore
-*gitignore
-.git

@@ -2,4 +2,6 @@
 node_modules
 hstr
 gitignore
+.gitignore
+*gitignore
 .git

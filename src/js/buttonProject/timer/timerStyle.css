@@ -1,0 +1,22 @@
+.mDTimer{
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    width: 300px;
+    height: 200px;
+    background-color: beige;
+    -webkit-box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+    border-radius: 10px;
+}
+.mDTimer h1{
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+.mDTimer button{
+    border-radius: 4px;
+    margin: 20px 15px 0px 15px;
+}

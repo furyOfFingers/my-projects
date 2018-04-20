@@ -6,3 +6,4 @@ npm i react react-dom -S
 npm i babel-core babel-loader babel-preset-env babel-preset-react -D
 npm i html-webpack-plugin -D
 npm i webpack-dev-server -D
+npm i css-loader style-loader -D

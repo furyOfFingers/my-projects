@@ -1,7 +1,12 @@
+import "./style/style.css";
 import React from "react";
 import ReactDOM from "react-dom";
-const Index = () => {
-  return <div>Hello There!</div>;
-};
 
-ReactDOM.render(<Index />, document.getElementById("index"));
+// import Application from "./js/Application";
+
+import MainDiv from "./js/mainDiv";
+// import LoginForm from "./js/loginForm";
+
+//App
+// import App from "./js/bootstrapTask/app";
+// import App from "./js/bootstrapTask/main";

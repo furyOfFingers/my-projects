@@ -1,0 +1,63 @@
+.calculate{
+    display: block;
+    top:30px;
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 2px;
+    padding: 10px 0px 0px 10px;
+    -webkit-box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+
+}
+.leftBlock{
+    float: left;
+   
+}
+.variableInput1, .variableInput2{
+    margin-top: 10px;
+    color: crimson;
+    font-size: 18px;
+    background-color: burlywood;
+    width: 200px;
+    height: 20px;
+    border-radius: 3px;
+    border: none;
+    display: block;
+}
+.variableInput2{
+    color: mediumblue;
+}
+
+.outpotP{
+    margin-top: 10px 10px 10px 10px;
+    color: maroon;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+   
+}
+.plus, .multiplication, .minus{
+    width: 45px;
+    height: 30px;
+    display: block;
+    margin: 15px 10px 10px 5px;
+    border-radius: 8px;
+    border:none;
+    cursor: pointer;
+    background-color: lightslategrey;
+    color: #1B0773;
+    font-size: 25px;
+}
+.plus:hover, .multiplication:hover, .minus:hover {
+    -webkit-box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 25px 4px rgba(0,0,0,0.75);
+}
+.actions{
+    width: 50px;
+    height: 120px;
+    float: left;
+    margin: -6px 10px 10px 20px;
+}

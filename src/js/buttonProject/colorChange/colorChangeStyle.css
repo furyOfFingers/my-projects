@@ -1,0 +1,35 @@
+.mDColorChanger{
+    position: relative;
+    background-color: #E7F9B2;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 10px 20px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 20px 3px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 20px 3px rgba(0,0,0,0.75);
+}
+.mDColorChanger input{
+    position: relative;
+    top:20px;
+    width: 300px;
+    display: block;
+    margin: 0px auto 20px auto;
+}
+.mDColorChanger h3{
+    position: relative;
+    margin: 50px 0px 10px 20px;
+}
+.buttonCColorChanger{
+    width: 350px;
+    position: relative;
+    margin: 0 auto;
+    top:50px;
+}
+.buttonCColorChanger button{
+    position: relative;
+    left:50px;
+    /* display: block; */
+    margin: 5px 5px 5px 5px;
+}

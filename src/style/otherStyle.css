@@ -1,0 +1,30 @@
+
+/* bootstrap*/
+.aloe{
+    border-radius: 30px;
+}
+.textMiddle{
+    margin-top: 20px;
+}
+.BGNone{
+    background-color: #fcfcfc;
+    margin-top: 10px;
+}
+.toRight{
+    float: right;
+}
+.tableMarginTop{
+    margin-top: 50px;
+}
+.borderRadiusInput{
+    border-radius: 15px 0px 0px 15px;
+}
+.borderRadiusButton{
+    border-radius: 0px 15px 15px 0px;
+}
+.answerUl{
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategrey;
+}

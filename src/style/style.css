@@ -1,0 +1,88 @@
+body{
+    background-color: aquamarine;
+}
+
+.logPasswordWindow{
+    background-color: #E7F9B2;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 10px 20px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 20px 3px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 20px 3px rgba(0,0,0,0.75);
+}
+
+.logInButton{
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: #809A35;
+    border: 2px solid #809A35;
+    color:#B2DD37;
+    cursor: pointer;
+}
+
+.login, .password{
+    width: 200px;
+    margin-left:50px;
+    margin-top: 10px;
+    background-color: #CCDBA2;
+    color:rgb(53, 68, 9);
+    border-radius: 2px;
+    font-weight: 800;
+}
+
+.login{
+    margin-top: 10px;
+}
+/*mainDiv part*/
+.forBodyMainDivBG{
+    background-color: #E7F9B2;
+}
+.mainDiv{
+    left:20px;
+    min-width: 1000px;
+    max-width: 1400px;
+    position: relative;
+    margin: 0 auto;
+    top:20px;
+
+}
+.leftMenu{
+    padding: 5px;
+    position: relative;
+    height: 500px;
+    float: left;
+}
+.mainContainer{
+    position: relative;
+    min-width: 800px;
+    max-width: 1200px;
+    min-height: 500px;
+    max-height: 100%;
+    float: left;
+
+}
+.buttonProject{
+    padding: 5px;
+    margin-top: 5px;
+    background-color: #B2DD37;
+    border: 1px solid #6C227E;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(78, 90, 114);
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.buttonProject:hover{
+    color: darkblue;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+
+}
